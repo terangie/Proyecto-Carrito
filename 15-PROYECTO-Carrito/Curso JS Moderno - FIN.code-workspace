@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Curso JS Moderno - FIN"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../../Escritorio/ejercicios Javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Curso+JS+Moderno"
+	}
+}
